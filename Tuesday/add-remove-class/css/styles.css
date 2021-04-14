@@ -1,0 +1,19 @@
+.container{
+  background-color: black;
+  color: white;
+}
+.container-black{
+  background-color: white;
+  color: black;
+}
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
